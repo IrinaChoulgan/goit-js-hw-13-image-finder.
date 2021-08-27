@@ -4,7 +4,7 @@ import { alert, error, defaultModules, success } from  '../node_modules/@pnotify
 import * as PNotifyMobile from '../node_modules/@pnotify/mobile/dist/PNotifyMobile.js';
 import '@pnotify/core/dist/BrightTheme.css';
 import refs from "./js/refs.js";
-import '../node_modules/basiclightbox/dist/basiclightbox.min.css'
+//import '../node_modules/basiclightbox/dist/basiclightbox.min.css'
 import { onGalleryClick } from './js/modal.js'
 let currentPage = 1;
 const KEY_API = '23070790-299ad5e8dfdc75cc527267990';
